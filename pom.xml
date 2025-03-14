@@ -190,7 +190,7 @@
     <distributionManagement>
         <repository>
             <id>your-repo-id</id>
-            <url>https://your-repo-url</url>
+            <url>https://github.com/Abhishek150160/addressbook.git</url>
         </repository>
         <snapshotRepository>
             <id>your-snapshot-repo-id</id>
